@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Rufus",
+    "Version": "3",
+    "ExePath": "C:\\Users\\\u043A\u043E\u0442\u0435\u043D\u043E\u043A\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\rufus-usb-3-1.exe",
+    "PlayTime": 6.010001693222222,
+    "LastPlayed": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "DDF",
+    "Version": "DFDF",
+    "ExePath": "C:\\Program Files (x86)\\ARDOR GAMING Keyboard\\ARDOR GAMING Keyboard.exe",
+    "PlayTime": 3,
+    "LastPlayed": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "tanki",
+    "Version": "df",
+    "ExePath": "C:\\Users\\\u043A\u043E\u0442\u0435\u043D\u043E\u043A\\AppData\\Local\\Programs\\Tanki Online\\Tanki Online.exe",
+    "PlayTime": 1.17,
+    "LastPlayed": "0001-01-01T00:00:00"
+  }
+]

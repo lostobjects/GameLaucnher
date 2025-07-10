@@ -1,0 +1,5 @@
+C:\Users\котенок\Documents\Мои проги\Новая папка\GameLauncher.exe
+C:\Users\котенок\Documents\Мои проги\Новая папка\GameLauncher.dll
+C:\Users\котенок\Documents\Мои проги\Новая папка\GameLauncher.deps.json
+C:\Users\котенок\Documents\Мои проги\Новая папка\GameLauncher.runtimeconfig.json
+C:\Users\котенок\Documents\Мои проги\Новая папка\GameLauncher.pdb

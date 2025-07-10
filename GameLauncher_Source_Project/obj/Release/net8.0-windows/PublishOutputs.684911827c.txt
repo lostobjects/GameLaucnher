@@ -1,0 +1,6 @@
+C:\Users\котенок\Documents\Мои проги\GameLauncher_Релиз\GameLauncher.exe
+C:\Users\котенок\Documents\Мои проги\GameLauncher_Релиз\GameLauncher.dll
+C:\Users\котенок\Documents\Мои проги\GameLauncher_Релиз\GameLauncher.deps.json
+C:\Users\котенок\Documents\Мои проги\GameLauncher_Релиз\GameLauncher.runtimeconfig.json
+C:\Users\котенок\Documents\Мои проги\GameLauncher_Релиз\GameLauncher.pdb
+C:\Users\котенок\Documents\Мои проги\GameLauncher_Релиз\Animator.dll
